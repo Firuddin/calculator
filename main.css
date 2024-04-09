@@ -11,8 +11,9 @@ input[type="text"]{
     height: 80px;
     font-size: 40px;
     border-radius: 10px;
-    text-align: right;
+    text-align: left;
     margin-bottom: 10px;
+   
 }
 button{
     width: 50px;

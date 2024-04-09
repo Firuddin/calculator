@@ -4,7 +4,7 @@ function getResult(value){
     if (value==="=") {
         result.value =eval(result.value)
     }else{
-        result.value+=value
+        result.value=result.value+value
     }
 }
 
